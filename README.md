@@ -1,2 +1,3 @@
 # hello-world
-github guide
+
+This is where I should say something about myself..
